@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Mo2egWWuXjYug5uzqqS8dTKjtjAGqxBk2qgxSFe5DpVgni9wgDcdQR9QFM+GxFB/rNiZsgk28P/ACjmEJrfuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexy\\Git\\TP2-Math-Informaticien-II\\PIF1006-tp2\\PIF1006-tp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alexy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
